@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Prediction System",
+  "description": "An end-to-end ML system for predicting customer attrition with a Success-Ops dashboard and retention workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
